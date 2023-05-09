@@ -41,7 +41,7 @@ public class VariablesAndComments {
         lowerLimit0fDoubleDataType = -1.7E+308d;
         upperLimit0fDoubleDataType = 1.7E+305;
 
-//     Am afisat valoarea variabilelor la consola
+//     Am afisat valoarea variabilelor in consola
 
         System.out.println(falseBooleanVariable);
         System.out.println(trueBooleanVariable);
